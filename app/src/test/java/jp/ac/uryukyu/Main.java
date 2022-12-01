@@ -1,3 +1,5 @@
+package jp.ac.uryukyu;
+
 import jp.ac.uryukyu.ie.e225712.*;
 
 public class Main {
